@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CRUD_BBDD</string>
+    <string name="borrar">borrar</string>
+    <string name="actualizar">actualizar</string>
+    <string name="buscar">buscar</string>
+    <string name="insertar">insertar</string>
+</resources>
